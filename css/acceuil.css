@@ -1,0 +1,246 @@
+
+.u-section-90 .u-sheet-1 {
+    min-height: 200px;
+    margin-bottom: 0;
+  }
+  .titre
+  {
+    color: #ffffff;
+    margin-top: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+  }
+  .quer
+  {
+    border: 1px solid;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-right: 5%;
+  margin-left: 5%;
+  }
+  
+  .u-section-90 .u-gallery-1 {
+    height: 375px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+  }
+  .u-back-slide
+  {
+    background: linear-gradient(900deg,
+    rgba(0, 0, 0, 0.925)0%,
+      rgba(1, 3, 24, 0.877)20%,
+    rgba(0, 0, 26, 0.952)100%),
+        url("logo_New1.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        
+       
+         background-repeat: no-repeat;
+        text-align: center;
+  }
+  .slide
+  {
+    background-image: url("AP.jpg");
+  }
+  
+  
+  .u-section-90 .u-carousel-indicators-1 {
+    position: absolute;
+    bottom: 5px;
+  }
+  
+  .u-section-90 .u-carousel-item-1 {
+    margin-right: 0;
+  }
+  
+  .u-section-90 .u-over-slide-1 {
+    background-image: linear-gradient(900deg, rgba(33, 33, 170, 0.301), rgb(1, 1, 22));
+    padding: 20px;
+  }
+  
+  .u-section-90 .u-carousel-item-2 {
+    margin-right: 0;
+  }
+  
+  .u-section-90 .u-over-slide-2 {
+    background-image: linear-gradient(900deg, rgba(0, 1, 32, 0.938), rgba(1, 2, 39, 0.2));
+    padding: 20px;
+  }
+  
+  .u-section-90 .u-carousel-control-1 {
+    position: absolute;
+    left: 10px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+  }
+  
+  .u-section-90 .u-carousel-control-2 {
+    position: absolute;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+  }
+  
+  
+  .u-section-90 {
+    background-color: black;
+    opacity: 0,1px;
+  }
+  
+  .u-section-1 .u-image-3 {
+    background: linear-gradient(900deg,
+    rgba(0, 0, 54, 0.76)0%,
+      rgba(6, 1, 46, 0.623)20%,
+    rgba(1, 17, 46, 0.712)100%),
+        url("acc.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        padding-bottom: 15%;
+       
+         background-repeat: no-repeat;
+        text-align: center;
+  }
+  .u-section-1 .u-image-2 {
+    background: linear-gradient(900deg,
+    rgba(3, 0, 20, 0.959)0%,
+      rgba(0, 0, 0, 0.849)20%,
+    rgba(1, 0, 10, 0.808)100%),
+        url("-mi2.jpg");
+        padding-bottom: 15%;
+        text-align: center;
+  
+  }
+  .cordonnee
+  {
+    border: solid black;
+  }
+  .bar
+  {
+    border: 1px black solid;
+    margin-bottom: 10%;
+  }
+  .com
+  {
+    color: white;
+  }
+  .compet
+  {
+    text-align: center;
+  }
+  .comp
+  {
+  text-align: center;
+  color:white ;
+  
+  }
+  .services
+  {
+  border: 1px solid;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-right: 5%;
+  margin-left: 5%;
+  background-color: black;
+  color: white;
+  margin-bottom: 3%;
+  margin-bottom: 3%;
+  background: linear-gradient(900deg,
+  rgba(3, 0, 20, 0.959)0%,
+    rgba(0, 0, 0, 0.932)20%,
+  rgba(1, 0, 10, 0.897)100%),
+      url("AP.jpg");
+  background-repeat: no-repeat;
+  background-color: rgba(1, 1, 19, 0.966);
+  
+  
+  }
+  .u-section-3 {
+   background-image: none;
+  }
+  
+  .u-section-3 .u-sheet-1 {
+    min-height: 109px;
+  }
+  
+  .u-section-3 .u-text-1 {
+    font-weight: 400;
+    margin: 60px auto 0;
+  }
+  
+  .u-section-3 .u-shape-1 {
+    width: 150px;
+    height: 47px;
+    margin: 40px auto 0;
+  }
+  
+  .u-section-3 .u-image-1 {
+    width: 468px;
+    height: 468px;
+    background-image: url("cxc.jpg");
+    background-position: 50% 50%;
+    margin: 27px auto 0;
+  }
+  
+  
+  .u-section-3 .u-list-item-3 {
+    box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  }
+   
+  
+  .u-section-2 .u-layout-wrap-1 {
+    margin: 2px ;
+   
+  }
+  .bar
+  {
+    text-align: center;
+    right: 100%;
+    
+  }
+  
+  .str
+  {
+    color: blue;
+  }
+  
+  
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    background-color: white;
+    color: black;
+  }
+  
+  
+  
+  .u-section-8 .u-sheet-1 {
+  min-height: 709px;
+  }
+  
+  .u-section-8 .u-layout-wrap-1 {
+  width: 719px;
+  margin: 60px auto 0;
+  }
+  
+  .u-section-8 .u-layout-cell-1 {
+  min-height: 262px;
+  background-image: none;
+  }
+  
+  .u-section-8 .u-container-layout-1 {
+  padding: 30px;
+  }
+  
+  .u-section-8 .u-text-1 {
+  font-weight: 400;
+  margin: 0 auto;
+  }
+  @media (max-width: 700px) {
+    .quer
+    {
+     font-size: 7px;
+    }
+  }
+  
+  
